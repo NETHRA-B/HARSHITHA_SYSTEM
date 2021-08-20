@@ -1,0 +1,324 @@
+element.style {
+}
+main-altern…style.css:3
+.booktestpopup.overlayContent .content {
+ padding: 00px 20px 20px 20px;
+}
+
+arena-common.css:24153
+.overlayContent.enquiryForm .content {
+ height: auto !important;
+}
+
+arena-common.css:23937
+.overlayContent .content.active {
+ display: block;
+}
+
+arena-common.css:19956
+.booktestpopup.overlayContent .content {
+ padding: 20px 40px 0;
+}
+
+arena-common.css:19429
+.overlayContent .content.active {
+ display: block;
+}
+
+arena-common.css:23768
+.overlayContent .content {
+ padding: 20px;
+ display: none;
+ overflow: auto;
+ font-family: "Lato Regular",sans-serif;
+}
+
+arena-common.css:19269
+.overlayContent .content {
+ padding: 40px;
+ display: none;
+ overflow: auto;
+}
+
+arena-common.css:35813
+* {
+ padding: 0;
+ margin: 0;
+ outline: 0;
+}
+
+arena-common.css:27056
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+arena-common.css:20005
+* {
+ font-family: 'Lato', sans-serif;
+}
+
+arena-common.css:1321
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+loyalty-new…tom.css:282
+* {
+ box-sizing: border-box;
+}
+
+loyalty-cus…yle.css:242
+* {
+ box-sizing: border-box;
+}
+
+loyalty-cus…style.css:1
+* {
+ font-family: 'Lato',sans-serif;
+}
+
+user agent stylesheet
+div {
+ display: block;
+}
+
+Inherited from body.modal-open
+arena-common.css:35845
+body {
+ font-family: Lato;
+ overflow-x: hidden;
+}
+
+arena-common.css:27080
+body {
+ font-size: 14px;
+ line-height: 1.42857;
+ color: #333;
+}
+
+arena-common.css:1331
+body {
+ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-size: 14px;
+ line-height: 1.42857143;
+ color: #333;
+ background-color: #fff;
+}
+
+loyalty-new…tom.css:279
+body {
+ margin: 0;
+ padding: 0;
+ font-family: Lato,sans-serif;
+}
+
+Inherited from html.js.flexbox.flexboxlegacy.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.no-applicationcache.svg.inlinesvg.smil.svgclippaths
+arena-common.css:27076
+html {
+ font-size: 10px;
+}
+
+arena-common.css:25746
+html {
+ font-family: sans-serif;
+ -ms-text-size-adjust: 100%;
+ -webkit-text-size-adjust: 100%;
+}
+
+arena-common.css:25702
+html {
+ -webkit-tap-highlight-color: transparent;
+}
+
+arena-common.css:1326
+html {
+ font-size: 10px;
+ -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+arena-common.css:8
+html {
+ font-family: sans-serif;
+ -webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;
+}
+
+Pseudo ::before element
+arena-common.css:27056
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+arena-common.css:1321
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+Pseudo ::after element
+arena-common.css:27056
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+arena-common.css:1321
+*, :after, :before {
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+Pseudo ::scrollbar element
+arena-common.css:36410
+::-webkit-scrollbar {
+ width: 8px;
+}
+
+Pseudo ::scrollbar-button element
+arena-common.css:36414
+::-webkit-scrollbar-button {
+ width: 8px;
+ height: 5px;
+}
+
+Pseudo ::scrollbar-thumb element
+arena-common.css:36427
+::-webkit-scrollbar-thumb {
+ background: #999;
+ border: thin solid gray;
+ border-radius: 10px;
+}
+
+Pseudo ::scrollbar-track element
+arena-common.css:36419
+::-webkit-scrollbar-track {
+ background: #eee;
+ border: thin solid #d3d3d3;
+ -webkit-box-shadow: 0 0 3px 0 #dfdfdf inset;
+ box-shadow: 0 0 3px 0 #dfdfdf inset;
+ border-radius: 10px;
+}
+
+On Fri, Aug 20, 2021 at 12:35 PM SRIMUGHI B <srimughi.it20@bitsathy.ac.in> wrote:
+<form name="testDriveform_pop" class="testDriveform_pop">
+                <div class="form-group row">
+                    <label for="name" class="col-sm-2 sr-only">Name</label>
+                    <div class="col-lg-6">
+
+                        <input type="text" name="name" class="form-control tdrivefname" tabindex="1" id="name" placeholder="NAME*" required="" maxlength="30">
+                    </div>
+                     <label for="email" class="col-sm-2 sr-only">Email</label>
+                    <div class="col-lg-6">
+                        <input type="text" name="email" class="form-control tdriveemail" id="email" tabindex="2" placeholder="EMAIL" maxlength="50">
+                    </div>
+                </div>
+               
+                <div class="form-group row">
+                    <label for="state" class="col-sm-2 sr-only">State</label>
+                    <div class="col-lg-6">                      
+                         <select name="dealerstate" id="dealerstate_pop" class="form-control bookTestDrive_dealerState" onchange="populatecitiesNewFormPop(), cleardealers()" required="">
+                            <option value="">SELECT STATE *</option>
+                                    <option value="AN">ANDAMAN</option>
+                                    <option value="AP">ANDHRA PRADESH</option>
+                                    <option value="AR">ARUNACHAL PRADESH</option>
+                                    <option value="AS">ASSAM</option>
+                                    <option value="BH">BIHAR</option>
+                                    <option value="CH">CHANDIGARH</option>
+                                    <option value="CG">CHHATTISGARH</option>
+                                    <option value="DN">DADRA AND NAGAR HAVELI</option>
+                                    <option value="DM">DAMAN</option>
+                                    <option value="DL">DELHI</option>
+                                    <option value="GO">GOA</option>
+                                    <option value="GJ">GUJARAT</option>
+                                    <option value="HN">HARYANA</option>
+                                    <option value="HP">HIMACHAL PRADESH</option>
+                                    <option value="JK">JAMMU AND KASHMIR</option>
+                                    <option value="JH">JHARKHAND</option>
+                                    <option value="KT">KARNATAKA</option>
+                                    <option value="KL">KERALA</option>
+                                    <option value="MP">MADHYA PRADESH</option>
+                                    <option value="MH">MAHARASHTRA</option>
+                                    <option value="MN">MANIPUR</option>
+                                    <option value="ML">MEGHALAYA</option>
+                                    <option value="MZ">MIZORAM</option>
+                                    <option value="NG">NAGALAND</option>
+                                    <option value="OS">ODISHA</option>
+                                    <option value="PY">PONDICHERRY</option>
+                                    <option value="PJ">PUNJAB</option>
+                                    <option value="RJ">RAJASTHAN</option>
+                                    <option value="SK">SIKKIM</option>
+                                    <option value="TN">TAMIL NADU</option>
+                                    <option value="TL">TELANGANA</option>
+                                    <option value="TR">TRIPURA</option>
+                                    <option value="UP">UTTAR PRADESH</option>
+                                    <option value="UT">UTTARAKHAND</option>
+                                    <option value="WB">WEST BENGAL</option>
+                        </select>
+                    </div>
+                     <label for="city" class="col-sm-2 sr-only">City</label>
+                    <div class="col-lg-6">
+                       
+                          <select name="dealercity_pop" class="form-control bookTestDrive_dealerCity" id="dealercity_pop" onchange="populatedealersnewformPop()" required="">
+                           
+                        </select>
+                    </div>
+                </div>
+               
+                <div class="form-group row">
+                    <label for="dealer" class="col-sm-2 sr-only">Dealer</label>
+                    <div class="col-lg-6">
+                        <select name="dealer" class="form-control bookTestDrive_dealer" id="dealer" required=""><option value="">SELECT DEALER *</option></select>
+                    </div>
+                    <label for="state" class="col-sm-2 sr-only">Car model</label>
+                    <div class="col-lg-6">
+
+                      <select name="model" id="testCarModalName" required="" class="form-control bookTestDrive_car">
+                           
+                          <option value="">SELECT MODEL *</option>
+                                <option value="AN-ANR4AS100">ALTO</option>                              
+                                <option value="CE-CER4AL200">CELERIO</option>
+                                <option value="CE-CER4BV200">CELERIO X</option>
+                                <option value="DR-DRR4DL100">DZIRE</option>
+                                <option value="VR-VRRPBHF00">EECO</option>
+                                <option value="ER-ERR4BL100">ERTIGA</option>
+                                <option value="SP-SPR4XS100">S-PRESSO</option>
+                                <option value="SR-SRR4BL100">SWIFT</option>
+                                <option value="VB-VBR4BL100">VITARA BREZZA</option>
+                                <option value="WA-WAR4CL100">WAGONR</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-2 sr-only">Phone</label>  
+                    <div class="col-lg-6">
+
+                        <input type="text" name="mobile" id="newTestMobile" class="form-control" placeholder="MOBILE*" onkeypress="return event.charCode >= 48 &amp;&amp; event.charCode <= 57" minlength="10" maxlength="10" required="" aria-required="true">
+                        <!-- <span class="btsendotp sendOtp otp">Send OTP</span> -->
+                        <span class="iconTop otp"><a id="lnkOTP1" class="btsendotp_pop sendOtp otp lnkOTP" href="#" data-value="2" style="position: relative; top:10px;">Send OTP</a></span>
+                    </div>
+                   
+                     <label class="col-sm-2 sr-only">otp</label>
+                   <div class="col-lg-6 otpTxt btdotpTxt" style="display: none;">
+                       <input type="text" name="otp" id="btdResendOtp_pop" class="form-control" placeholder="Enter OTP*" onkeypress="return event.charCode >= 48 &amp;&amp; event.charCode <= 57" minlength="5" maxlength="5">
+                       <span id="otptestDriveError" style="display: none; color:red;">OTP not matching</span>
+                        <span class="resendOtp otp" style="display: none;">Resend</span>
+                        <span id="error-span" style="color:#f00;"></span>
+                        <span class="resendOtp-timer" style="display: none;">Resend otp in 00:56</span>
+                         <div id="bsd" class="divResendInfo" style="margin-top: 45px; white-space:nowrap; position:absolute; top:5px; right:130px; font-size:12px; color: green; font-weight: bold; text-align: left; margin-left: 15px; display: none;">
+                        <span>RESEND OTP IN</span> &nbsp;<span id="bsd_m">00</span>:<span id="bsd_s">00</span>
+                        <input type="text" value="90" id="bsd_seconds" style="display: none">
+                    </div>
+                </div><br><br>
+                </div>
+                <div class="forms-disclaimer" id="forms-disclaimer">
+                    <p>
+                        <input type="checkbox" id="FormChkBoxBookPop" name="FormChkBox" style="vertical-align: sub;">
+                        I agree that by clicking the ‘Continue’ button below, I am explicitly soliciting a call from Maruti Suzuki India Ltd. Or its partners on my ‘Mobile’.
+                    </p>
+                </div>
+                 <button type="button" class="btn" id="btnbooktestdriveOtp" disabled="" style="background-color: grey;">Submit</button>
+                 
+            </form>
